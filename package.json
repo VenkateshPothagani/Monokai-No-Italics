@@ -3,7 +3,7 @@
     "displayName": "Monokai-No-Italics",
     "description": "Basic Monokai Theme With No Italics",
     "publisher": "Venkatesh",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.45.0"
     },
