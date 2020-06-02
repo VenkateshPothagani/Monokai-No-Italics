@@ -1,0 +1,26 @@
+{
+    "name": "monokai-no-italics",
+    "displayName": "Monokai-No-Italics",
+    "description": "Basic Monokai Theme With No Italics",
+    "publisher": "Venkatesh",
+    "version": "0.0.5",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai-No-Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Venkatesh-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Microsoft/vscode-wordcount.git"
+    }
+}
