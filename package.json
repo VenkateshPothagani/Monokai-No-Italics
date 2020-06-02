@@ -22,5 +22,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Microsoft/vscode-wordcount.git"
-    }
+    },
+    "icon": "Monokai-No-Italics-Theme.png"
 }
